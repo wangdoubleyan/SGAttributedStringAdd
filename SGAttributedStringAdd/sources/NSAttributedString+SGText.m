@@ -8,7 +8,7 @@
 
 #import "NSAttributedString+SGText.h"
 
-@implementation NSAttributedString (TYText)
+@implementation NSAttributedString (SGText)
     
 - (id)sg_attribute:(NSString *)attrName atIndex:(NSUInteger)index {
     return [self sg_attribute:attrName atIndex:index effectiveRange:NULL];

@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface NSAttributedString (TYText)
+@interface NSAttributedString (SGText)
     
 #pragma mark - Get Attribute
     
